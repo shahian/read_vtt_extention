@@ -29,9 +29,7 @@ Suppose you have multiple .srt files in the directory `/home/user/subtitles/` an
 1. Compile the Java file: `javac SrtFileReader.java`.
 2. Run the compiled program: `java SrtFileReader`.
 
-## License
 
-This software is provided under the MIT License. You are free to use, modify, and distribute it according to the terms of the license.
 
 ## Contributing
 
@@ -39,7 +37,7 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 
 ## Authors
 
-- [HamidReza Shahian] - Initial version
+- HamidReza Shahian - Initial version
 
 ## Acknowledgments
 
@@ -48,4 +46,4 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 
 ## Contact
 
-For any inquiries or suggestions, please contact [hamidreza.shahian@gmail.com].
+For any inquiries or suggestions, please contact hamidreza.shahian@gmail.com.
